@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SorteioDeNumeros</string>
+    <string name="IpNAceito">Insira o primeiro número aceito:</string>
+    <string name="InsiraNumeroAqui">Insira o número aqui…</string>
+    <string name="IsNAceito">Insira o segundo número aceito:</string>
+    <string name="Sortear">Sortear</string>
+    <string name="Onumerosorteadofoi">O número sorteado foi:</string>
+    <string name="xis">x</string>
+    <string name="obs">Recomendasse que o número sorteado tenha no maximo 9 caracteres!\nPara a tela não cortar!</string>
+    <string name="Erro1">Há algum campo em branco!!!!</string>
+    <string name="Erro2">O primeiro número deve ser o menor e o segundo o maior!!!!</string>
+    <string name="ByName">By Breno Cardoso</string>
+</resources>
